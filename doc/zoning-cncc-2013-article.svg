@@ -15,7 +15,7 @@
    version="1.1"
    inkscape:version="0.48.4 r9939"
    sodipodi:docname="zoning-cncc-2013-article.svg"
-   inkscape:export-filename="/home/philoo/dev/canne/cnccb/site/zoning-cnccb-2013-article.png"
+   inkscape:export-filename="/home/philoo/dev/canne/cnccb/site/doc/zoning-cnccb-2013-article.png"
    inkscape:export-xdpi="116"
    inkscape:export-ydpi="116">
   <defs
@@ -45,7 +45,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="0.70710678"
      inkscape:cx="-16.053383"
-     inkscape:cy="906.84266"
+     inkscape:cy="1302.8225"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -307,7 +307,7 @@
        id="text3320"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         id="tspan3322"></tspan></text>
+         id="tspan3322" /></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot3324"
@@ -621,7 +621,7 @@
          sodipodi:role="line"
          id="tspan4953"
          x="-260.2153"
-         y="-535.63782">RUBRIQUE</tspan></text>
+         y="-535.63782">ARTICLE</tspan></text>
     <rect
        y="23.74148"
        x="7.1571946"
