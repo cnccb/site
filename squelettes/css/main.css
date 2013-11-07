@@ -1,0 +1,19 @@
+.rubrique{
+	background: #eee;
+	height: 300px;
+}
+
+#slide1 {
+   background: #f60 center 0 no-repeat fixed;
+   height: 800px;
+}
+
+#slide2 {
+   background: #369 center 0 no-repeat fixed;
+   height: 500px;
+}
+
+#slide3 {
+   background: #000 center 0 no-repeat fixed;
+   height: 900px;
+}
